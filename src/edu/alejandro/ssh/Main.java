@@ -12,6 +12,5 @@ public class Main {
 		// Genera 5 números principales
 
 		// Número complementario
-		System.out.println("¡Buena suerte en el sorteo!");
 	}
 }
