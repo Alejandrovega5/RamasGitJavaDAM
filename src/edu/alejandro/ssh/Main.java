@@ -10,7 +10,7 @@ public class Main {
 
 		System.out.println("Números de la Lotería Primitiva:");
 		// Genera 5 números principales
-
+		System.out.println("Cambio realizado desde GitHub.");
 		// Número complementario
 	}
 }
