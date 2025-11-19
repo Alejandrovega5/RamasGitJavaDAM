@@ -11,6 +11,7 @@ public class Main {
 		while (bolas.size() < 5) {
 			bolas.add(r.nextInt(49) + 1);
 		}
+		System.out.println("¡Suerte en el sorteo");
 		int suma = bolas.stream().mapToInt(Integer::intValue).sum();
 		System.out.println("Suma de principales: " + suma);
 		System.out.println("Números principales: " + bolas);
